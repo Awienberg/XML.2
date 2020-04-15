@@ -17,8 +17,8 @@
 				<meta charset="utf-8"/>
 			</head>
 			<body style="background-color: #f7f7f7;
-						 margin: 50px;
-						 font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;">
+				     margin: 50px;
+				     font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;">
 				<h1>Books</h1>
 				<xsl:apply-templates/>
 			</body>
